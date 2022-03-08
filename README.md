@@ -10,11 +10,11 @@
 
 ``` bash
 # install dependencies
-$ yarn install
+$ npm install
 
 # serve with hot reload at localhost:3000
-$ yarn dev
+$ npm run dev | npm start
 
 # build for production
-$ yarn build
+$ npm run start
 ```
