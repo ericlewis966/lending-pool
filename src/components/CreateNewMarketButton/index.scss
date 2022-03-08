@@ -1,0 +1,14 @@
+.create-new-market {
+  margin-top: 2rem;
+
+  .row {
+    flex-direction: row-reverse;
+    margin: 0;
+
+    .btn, .btn:active {
+      background: linear-gradient(18deg, rgba(255,0,35,1) 15%, rgba(47,39,195,1) 50%, rgba(50,218,252,1) 79%);
+      border: none;
+      box-shadow: none !important;
+    }
+  }
+}
